@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 whatever
-=======
 one sentence at a time.
->>>>>>> b51cb6fe816539a271d64c90f56c6cb05b16090d
